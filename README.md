@@ -1,6 +1,6 @@
-# Project 2 Machine Learning
+# Road Segmentation from Satellite Images using Convolutional Neural Network
 
-The aim of this project was to train a classifier to segment roads on images, i.e. assign a label {road=1, background=0} to each 16x16 pixel patch images. For this purpose, we got a set of satellite/aerial images acquired from Google Maps, and also ground-truth images where each 16x16 pixel patch images are labeled as {road, background}. 
+The aim of this project was to train a CNN classifier to segment roads on Google Maps images, i.e. assign a label {road=1, background=0} to each 16x16 pixel patch images. 
 
 ## Getting the csv file
 
