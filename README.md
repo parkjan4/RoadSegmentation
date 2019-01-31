@@ -1,6 +1,6 @@
 # Road Segmentation from Satellite Images using Convolutional Neural Network
 
-The aim of this project is to train a CNN classifier to segment roads on Google Maps images, i.e. assign a label {road=1, background=0} to each 16x16 pixel patch images. This task is done with Keras using both Tensorflow and Theano as backend.
+The aim of this project is to train a CNN classifier to segment roads on Google Maps images, i.e. assign a label {road=1, background=0} to each 16x16 pixel patch images. This task is done with Keras using both Tensorflow and Theano as backend. For full details of our work, refer to `Report.pdf`.
 
 ## Getting Started
 
