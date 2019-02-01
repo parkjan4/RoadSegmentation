@@ -22,7 +22,7 @@ Besides that (and the built-in Python libraries), the following packages are use
 
 ## Project Structure
 
-The project has the following folder (and file) structure:
+The `project/` directory has the following folder (and file) structure:
 
 * `data/`. Directory containing original dataset
     * `training/` Contains 50 400x400 pixel training images in .png format.
